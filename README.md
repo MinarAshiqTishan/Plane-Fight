@@ -1,10 +1,12 @@
 # Plane-Fight
 
- Intro: An infinite running shooting game made with Unity3d complete with custom UI and scoring. The models are created with blender3d. \ 
- Control : \ 
-   movement: w, a, s, d \
-   shoot: left cntrl \
-   shield: space \
+ Intro: An infinite running shooting game made with Unity3d complete with custom UI and scoring. The models are created with blender3d. 
+ 
+ Control :  
+ 
+   - movement: w, a, s, d 
+   - shoot: left cntrl 
+   - shield: space 
  
  Screenshot 1: Start page
  
